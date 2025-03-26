@@ -10,8 +10,6 @@ This repository houses the code we require for examples and assignments.
 
 This repository will contain branches of code.
 
-Please refer to your instructor's directions on how to use this repository.
-
 ## Branch Usage
 
 **Installing The Dependencies**
@@ -59,3 +57,10 @@ To run a specific test, you can use
 npm run test [my test name]
 ```
 
+**Running The Tests: Calculating Canvas Diagonal**
+
+To run the tests, you can use
+
+```bash
+npm run test calculateCanvasDiagonal.test.ts
+```
